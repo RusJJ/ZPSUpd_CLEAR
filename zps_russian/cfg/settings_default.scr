@@ -61,11 +61,10 @@ DESCRIPTION SERVER_OPTIONS
 		{ STRING }
 		{ "" }
 	}
-	
 
 	"mp_roundtimelimit"
 	{
-		"Лимит времени раунда (мин.)"
+		"Время раунда (мин.)"
 		{ NUMBER 0 -1 }
 		{ "30" }
 	}

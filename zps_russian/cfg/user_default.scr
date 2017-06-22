@@ -61,7 +61,7 @@ DESCRIPTION INFO_OPTIONS
 	}
 	"cl_hideemptyammo"
 	{
-		"Не показывать 0 патронов в инвентаре"
+		"Спрятать пустые патроны в инвентаре"
 		{ BOOL }
 		{ "0" }
 	}
@@ -79,7 +79,7 @@ DESCRIPTION INFO_OPTIONS
 	}
 	"cl_zvision_minfps"
 	{
-		"Ограничение мин.FPS для зомби-виденья"
+		"Мин. FPS для зомби-видения"
 		{ NUMBER 0 300 }
 		{ "15" }
 	}
